@@ -8,6 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=mIdrees007&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/mIdrees007?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
+<img src="https://img.shields.io/github/last-commit/mIdrees007/mIdrees007?label=Last%20Active&style=flat&color=7dd3fc" alt="Last Active"/>
 
 </div>
 
@@ -41,7 +42,7 @@ const muhammadIdrees = {
 
 A complete MERN Stack CRUD application for managing enquiries, with Clerk authentication, protected routes, and a responsive Tailwind/Flowbite UI.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mIdrees007&repo=MERN_User_Management&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="MERN_User_Management"/>
+<img src="assets/mern-banner.svg" alt="MERN User Management" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -56,7 +57,7 @@ A complete MERN Stack CRUD application for managing enquiries, with Clerk authen
 
 A comprehensive end-to-end UI automation framework built with Playwright and JavaScript, covering the Page Object Model, locators, assertions, frames, file upload/download, and API testing.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mIdrees007&repo=Playwright-JavaScript-Automation&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="Playwright-JavaScript-Automation"/>
+<img src="assets/playwright-banner.svg" alt="Playwright JavaScript Automation" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -71,7 +72,7 @@ A comprehensive end-to-end UI automation framework built with Playwright and Jav
 
 A collection of core Python problem-solving exercises focused on efficient, Pythonic coding — from list comprehensions and generator-based iteration to building custom context managers and handling structured file formats.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mIdrees007&repo=python-assessments&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="python-assessments"/>
+<img src="assets/python-assessments-banner.svg" alt="Python Assessments" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -87,7 +88,7 @@ A collection of core Python problem-solving exercises focused on efficient, Pyth
 
 A hands-on, self-documented Docker learning log covering the full container lifecycle — images, containers, Dockerfiles, volumes, networking, Docker Compose, and Docker Hub — with every command tested and its output recorded as a practical reference.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mIdrees007&repo=docker-complete-guide&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="docker-complete-guide"/>
+<img src="assets/docker-banner.svg" alt="Docker Complete Guide" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -102,7 +103,7 @@ A hands-on, self-documented Docker learning log covering the full container life
 
 An end-to-end Python curriculum spanning fundamentals through advanced object-oriented programming, applied through multiple mini-games and a real-world weather prediction application built with PyQt5 and the OpenWeather API.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mIdrees007&repo=python_complete_course&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" alt="python_complete_course"/>
+<img src="assets/python-course-banner.svg" alt="Python Complete Course" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -112,6 +113,15 @@ An end-to-end Python curriculum spanning fundamentals through advanced object-or
 | Applications | Weather Prediction App, Slot Machine, Dice Roller, Calculator, Quiz Game, Password Generator |
 
 🔗 [Code](https://github.com/mIdrees007/python_complete_course)
+
+---
+
+### 🗣️ Languages I Speak
+
+| Language | Proficiency |
+|---|---|
+| 🇬🇧 English | Professional Working Proficiency |
+| 🇵🇰 Urdu | Native |
 
 ---
 
@@ -148,12 +158,6 @@ An end-to-end Python curriculum spanning fundamentals through advanced object-or
 
 <img src="https://streak-stats.demolab.com/?user=mIdrees007&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&hide_border=false" alt="GitHub Streak"/>
 
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mIdrees007&theme=nord&no-frame=true&no-bg=true&column=4" alt="Trophies"/>
 </div>
 
 ### 📈 Contribution Activity
