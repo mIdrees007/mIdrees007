@@ -42,7 +42,7 @@ const muhammadIdrees = {
 
 A complete MERN Stack CRUD application for managing enquiries, with Clerk authentication, protected routes, and a responsive Tailwind/Flowbite UI.
 
-<img src="assets/mern-banner.svg" alt="MERN User Management" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=90&section=header&text=MERN%20User%20Management&fontSize=26&fontColor=0f172a&fontAlignY=60" alt="MERN User Management" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -57,7 +57,7 @@ A complete MERN Stack CRUD application for managing enquiries, with Clerk authen
 
 A comprehensive end-to-end UI automation framework built with Playwright and JavaScript, covering the Page Object Model, locators, assertions, frames, file upload/download, and API testing.
 
-<img src="assets/playwright-banner.svg" alt="Playwright JavaScript Automation" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=90&section=header&text=Playwright%20Automation&fontSize=26&fontColor=0f172a&fontAlignY=60" alt="Playwright JavaScript Automation" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -72,7 +72,7 @@ A comprehensive end-to-end UI automation framework built with Playwright and Jav
 
 A collection of core Python problem-solving exercises focused on efficient, Pythonic coding — from list comprehensions and generator-based iteration to building custom context managers and handling structured file formats.
 
-<img src="assets/python-assessments-banner.svg" alt="Python Assessments" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=90&section=header&text=Python%20Assessments&fontSize=26&fontColor=0f172a&fontAlignY=60" alt="Python Assessments" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -88,7 +88,7 @@ A collection of core Python problem-solving exercises focused on efficient, Pyth
 
 A hands-on, self-documented Docker learning log covering the full container lifecycle — images, containers, Dockerfiles, volumes, networking, Docker Compose, and Docker Hub — with every command tested and its output recorded as a practical reference.
 
-<img src="assets/docker-banner.svg" alt="Docker Complete Guide" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=90&section=header&text=Docker%20Complete%20Guide&fontSize=26&fontColor=0f172a&fontAlignY=60" alt="Docker Complete Guide" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -103,7 +103,7 @@ A hands-on, self-documented Docker learning log covering the full container life
 
 An end-to-end Python curriculum spanning fundamentals through advanced object-oriented programming, applied through multiple mini-games and a real-world weather prediction application built with PyQt5 and the OpenWeather API.
 
-<img src="assets/python-course-banner.svg" alt="Python Complete Course" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7dd3fc&height=90&section=header&text=Python%20Complete%20Course&fontSize=26&fontColor=0f172a&fontAlignY=60" alt="Python Complete Course" width="100%"/>
 
 | Layer | Technology |
 |---|---|
@@ -153,8 +153,8 @@ An end-to-end Python curriculum spanning fundamentals through advanced object-or
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mIdrees007&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mIdrees007&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=mIdrees007&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mIdrees007&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=mIdrees007&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&hide_border=false" alt="GitHub Streak"/>
 
