@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI+Engineer;MERN+Stack+Developer;Playwright+Automation+Engineer;Python+%26+OOP+Enthusiast;Docker+%26+Containerization" alt="Typing SVG" /></a>
 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20Engineering%20Internships-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idreespersonal0011@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-AI%20Engineering%20Internships-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=idreespersonal0011@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=mIdrees007&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/mIdrees007?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
@@ -153,7 +153,7 @@ An end-to-end Python curriculum spanning fundamentals through advanced object-or
 ### 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mIdrees007&theme=nord&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mIdrees007&theme=nord&no-frame=true&no-bg=true&column=4" alt="Trophies"/>
 </div>
 
 ### 📈 Contribution Activity
@@ -169,7 +169,7 @@ An end-to-end Python curriculum spanning fundamentals through advanced object-or
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mIdrees007-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mIdrees007)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:idreespersonal0011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=idreespersonal0011@gmail.com)
 
 </div>
 
